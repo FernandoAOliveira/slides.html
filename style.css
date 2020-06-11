@@ -49,7 +49,7 @@ img{
     left: 0;
 }
 .banner1{
-    animation: slide1 12s linear infinite;
+    animation: slide1 15s linear infinite;
 }
 .banner2{
     animation: slide2 12s linear infinite;
